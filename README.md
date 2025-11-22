@@ -28,11 +28,11 @@ This project analyzes 3,900 customer transactions to extract actionable insights
 * Rows:3,900
 * Columns:18
 * Includes:
-    Customer demographics (Age, Gender, Location, Subscription Status)
-    Purchase details (Item, Category, Amount, Season, Size, Color)
-    Shopping behavior (Discount, Promo Code, Frequency, Review Rating, Shipping Type)
+    *Customer demographics (Age, Gender, Location, Subscription Status)
+    *Purchase details (Item, Category, Amount, Season, Size, Color)
+    *Shopping behavior (Discount, Promo Code, Frequency, Review Rating, Shipping Type)
 * Missing Values:
-    37 missing entries in Review Rating column. 
+    *37 missing entries in Review Rating column. 
 
 
 🐍 Exploratory Data Analysis (Python)
