@@ -94,7 +94,7 @@ An interactive dashboard was built to:
 * Analyze repeat purchase behavior
 * Track top-performing products and categories
 
-*(You can add the dashboard screenshot here when uploading to GitHub.)*
+Screenshot 2025-11-22 162634.png
 
 
 💡 Business Recommendations
