@@ -147,11 +147,6 @@ Load the `.pbix` file to explore insights visually.
 
 
 
-📬 Contact
-
-*Author: Sonali
-*Email: [sonai.dtg1@gmail.com](mailto:sonai.dtg1@gmail.com)
-*Skills: Data Analyst | Python | SQL | Power BI | Visualization
 
 
 
