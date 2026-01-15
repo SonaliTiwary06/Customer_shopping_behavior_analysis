@@ -124,7 +124,7 @@ Based on findings, the following strategies were proposed:
 1️⃣ Clone the Repository
 
 
-git clone https://github.com/your-username/customer-shopping-analysis.git
+git clone https://github.com/SonaliTiwary06/customer-shopping-analysis.git
 
 
 2️⃣ Install Dependencies
